@@ -8,3 +8,5 @@ def portafogli(utente, somma):
 
 print(portafogli('Mario', 100))
 print(portafogli('Luca', 400))
+print(portafogli('Mario', 200)) 
+print(portafogli('Luca', 100)) 
